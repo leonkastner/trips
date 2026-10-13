@@ -1,0 +1,360 @@
+{
+  "stations": [
+    {
+      "id": "bangkok",
+      "name": "Bangkok",
+      "lat": 13.80369,
+      "lon": 100.54227,
+      "dx": -14,
+      "dy": 28,
+      "anchor": "end",
+      "chapter": "railway"
+    },
+    {
+      "id": "ayutthaya",
+      "name": "Ayutthaya",
+      "lat": 14.3566678,
+      "lon": 100.5830196,
+      "dx": -12,
+      "dy": -12,
+      "anchor": "end",
+      "chapter": "ayutthaya"
+    },
+    {
+      "id": "pak-chong",
+      "name": "Pak Chong",
+      "lat": 14.7049174,
+      "lon": 101.4105949,
+      "dx": 0,
+      "dy": -22,
+      "anchor": "middle",
+      "chapter": "khao-yai"
+    },
+    {
+      "id": "korat",
+      "name": "Korat",
+      "lat": 14.9724524,
+      "lon": 102.0788912,
+      "dx": 0,
+      "dy": -18,
+      "anchor": "middle",
+      "chapter": "phimai"
+    },
+    {
+      "id": "buriram",
+      "name": "Buriram",
+      "lat": 15.0032189,
+      "lon": 103.108013,
+      "dx": -8,
+      "dy": -28,
+      "anchor": "end",
+      "chapter": "phanom-rung"
+    },
+    {
+      "id": "surin",
+      "name": "Surin",
+      "lat": 14.8914546,
+      "lon": 103.4939846,
+      "dx": -6,
+      "dy": 36,
+      "anchor": "end",
+      "chapter": "surin"
+    },
+    {
+      "id": "sikhoraphum",
+      "name": "Sikhoraphum",
+      "lat": 14.9451579,
+      "lon": 103.7864156,
+      "dx": 8,
+      "dy": -22,
+      "anchor": "start",
+      "chapter": "sikhoraphum"
+    },
+    {
+      "id": "ubon-station",
+      "name": "Bahnhof Ubon",
+      "lat": 15.2005,
+      "lon": 104.8587,
+      "dx": -4,
+      "dy": 34,
+      "anchor": "middle",
+      "chapter": "ubon"
+    }
+  ],
+  "legs": [
+    {
+      "from": "bangkok",
+      "to": "ayutthaya",
+      "minutes": 49,
+      "label": "49 Min.",
+      "dx": 35,
+      "dy": 0
+    },
+    {
+      "from": "ayutthaya",
+      "to": "pak-chong",
+      "minutes": 105,
+      "label": "1 Std. 45 Min.",
+      "dx": 0,
+      "dy": 27
+    },
+    {
+      "from": "pak-chong",
+      "to": "korat",
+      "minutes": 87,
+      "label": "1 Std. 27 Min.",
+      "dx": 0,
+      "dy": 25
+    },
+    {
+      "from": "korat",
+      "to": "buriram",
+      "minutes": 86,
+      "label": "1 Std. 26 Min.",
+      "dx": 0,
+      "dy": 22
+    },
+    {
+      "from": "buriram",
+      "to": "surin",
+      "minutes": 34,
+      "label": "34 Min.",
+      "dx": -4,
+      "dy": -8
+    },
+    {
+      "from": "surin",
+      "to": "sikhoraphum",
+      "minutes": 22,
+      "label": "22 Min.",
+      "dx": 0,
+      "dy": 16
+    },
+    {
+      "from": "sikhoraphum",
+      "to": "ubon-station",
+      "minutes": 87,
+      "label": "1 Std. 27 Min.",
+      "dx": 0,
+      "dy": 20
+    }
+  ],
+  "places": [
+    {
+      "id": "ayutthaya",
+      "title": "Ayutthaya",
+      "subtitle": "Eine Hauptstadt, in Stein bewahrt.",
+      "category": "Geschichte",
+      "lat": 14.355,
+      "lon": 100.558,
+      "station": "ayutthaya",
+      "access": "Bahnhalt mit kurzem Transfer",
+      "badge": "UNESCO-Welterbe",
+      "intro": "Zwischen Flussarmen und Backsteinruinen liegt die ehemalige Hauptstadt Siams. Die drei Chedis des Wat Phra Si Sanphet und die Türme am Wat Chaiwatthanaram zeigen ganz unterschiedliche Seiten der alten Stadt.",
+      "experience": "Mit dem Rad oder einem kurzen Tuk-Tuk-Ausflug ein paar Tempel verbinden. Dazwischen bleiben Uferlokale und die bewohnten Viertel: Ayutthaya ist nicht nur Geschichtspark.",
+      "why": "Ein gut erreichbarer UNESCO-Kulturstopp zu Beginn der Bahnreise.",
+      "practical": "Die historische Insel liegt gegenüber dem Bahnhof; für Tempel auf beiden Flussseiten ist ein Transfer sinnvoll.",
+      "caveat": "",
+      "photoKeys": [
+        "ayutthaya"
+      ],
+      "source": "https://whc.unesco.org/en/list/576/",
+      "sourceLabel": "UNESCO · Historische Stadt Ayutthaya"
+    },
+    {
+      "id": "khao-yai",
+      "title": "Khao Yai",
+      "subtitle": "Vom Zug in den Wald.",
+      "category": "Natur",
+      "lat": 14.4391808,
+      "lon": 101.3723666,
+      "station": "pak-chong",
+      "access": "Straßenausflug ab Pak Chong",
+      "badge": "Wald, Wasserfälle & Wildtiere",
+      "intro": "Hinter Pak Chong wechseln Reisfelder in bewaldete Hügel. Im Nationalpark führen Wege unter dichtem Blätterdach zu Wasserfällen; Nashornvögel, Gibbons und wilde Elefanten leben hier.",
+      "experience": "Ein voller Tag im Park lohnt mehr als ein kurzer Fotostopp. Außerhalb warten ruhige Unterkünfte im Grünen – eine gute Pause zwischen den Tempelstädten.",
+      "why": "Der deutlichste Kontrast zu Städten und Khmer-Tempeln entlang der Strecke.",
+      "practical": "Der Zug endet in Pak Chong, nicht im Park. Für den Parktag braucht ihr einen organisierten Transfer oder eine Tour mit Transport.",
+      "caveat": "",
+      "photoKeys": [
+        "khao-yai"
+      ],
+      "source": "https://www.khaoyainationalpark.com/en/plan-your-visit/getting-here",
+      "sourceLabel": "Nationalpark · Anreise"
+    },
+    {
+      "id": "phimai",
+      "title": "Korat → Phimai",
+      "subtitle": "Khmer-Tempel und Schatten unter Banyanbäumen.",
+      "category": "Geschichte & Stadtleben",
+      "lat": 15.2200177,
+      "lon": 102.4941514,
+      "station": "korat",
+      "access": "Straßenausflug ab Korat",
+      "badge": "Großes Khmer-Heiligtum",
+      "intro": "Mitten in einer kleinen Stadt steht eines der eindrucksvollsten Khmer-Heiligtümer Thailands. Sandsteintore, lange Galerien und fein geschnitzte Türstürze führen zum zentralen Turm; eine alte Straße verband Phimai mit Angkor.",
+      "experience": "Danach geht es zum Banyanhain Sai Ngam: Luftwurzeln, verwachsene Äste und Essensstände am Rand. Phimai bietet Tempel und Kleinstadtleben, ohne dass der Tag nur aus Monumenten bestehen muss.",
+      "why": "Ein großer Kulturort, der sich gut mit einem ruhigen Kleinstadttag verbinden lässt.",
+      "practical": "Phimai liegt abseits der Bahn. Ab Korat weiter auf der Straße; beim Zugticket Nakhon Ratchasima und Thanon Chira Junction nicht verwechseln.",
+      "caveat": "",
+      "photoKeys": [
+        "phimai",
+        "sai-ngam"
+      ],
+      "source": "https://www.tourismthailand.org/Attraction/phimai-historical-park",
+      "sourceLabel": "Thailändisches Fremdenverkehrsamt · Phimai",
+      "extraPoints": [
+        {
+          "name": "Sai Ngam",
+          "lat": 15.2264357,
+          "lon": 102.5041926
+        }
+      ]
+    },
+    {
+      "id": "phanom-rung",
+      "title": "Phanom Rung & Muang Tam",
+      "subtitle": "Über Schlangenbrücken zum Heiligtum.",
+      "category": "Geschichte",
+      "lat": 14.5319352,
+      "lon": 102.9403306,
+      "station": "buriram",
+      "access": "Straßenausflug ab Buriram",
+      "badge": "Khmer-Tempel auf dem Vulkan",
+      "intro": "Auf einem erloschenen Vulkan erhebt sich ein Shiva-Heiligtum aus Sandstein. Der lange Prozessionsweg und die Naga-Brücken machen schon den Aufstieg zum Erlebnis – oben öffnet sich der Blick über das flache Land.",
+      "experience": "Muang Tam setzt einen ruhigeren Kontrast: Tempeltürme und L-förmige Wasserbecken am Fuß des Hügels. Beide Anlagen passen in einen gemeinsamen Ausflug ab Buriram.",
+      "why": "Eine gute Wahl, wenn es ein besonders eindrucksvoller Khmer-Tempelausflug sein soll.",
+      "practical": "Die Anlagen liegen außerhalb der Bahnstadt. Einen Fahrer für Hin- und Rückfahrt sowie beide Tempel vereinbaren.",
+      "caveat": "Für südliche Ausflüge die aktuelle Grenzwarnung beachten; Sperrungen können die Planung ändern.",
+      "photoKeys": [
+        "phanom-rung",
+        "muang-tam"
+      ],
+      "source": "https://whc.unesco.org/en/tentativelists/6401/",
+      "sourceLabel": "UNESCO · Phanom Rung, Muang Tam und Plai Bat",
+      "extraPoints": [
+        {
+          "name": "Muang Tam",
+          "lat": 14.4961765,
+          "lon": 102.9822394
+        }
+      ]
+    },
+    {
+      "id": "surin",
+      "title": "Surin & Ban Tha Sawang",
+      "subtitle": "Seide, noch von Hand gewebt.",
+      "category": "Handwerk & Stadtleben",
+      "lat": 14.9557246,
+      "lon": 103.472077,
+      "station": "surin",
+      "access": "Bahnstadt mit Dorfausflug",
+      "badge": "Lebendige Seidenwebtradition",
+      "intro": "Surin ist eine bodenständige Bahnstadt mit einer langen Seidenwebtradition im Umland. In Ban Tha Sawang entstehen aufwendige Stoffe auf traditionellen Webstühlen – hier ist das Handwerk selbst der Grund für den Ausflug.",
+      "experience": "Am besten mit Zeit für einen vereinbarten Werkstattbesuch kommen, nicht nur zum Einkaufen. Danach zurück nach Surin: Essen, Alltag und eine Pause auf dem Weg nach Ubon.",
+      "why": "Lohnt sich besonders, wenn die Gruppe sich für das Handwerk interessiert.",
+      "practical": "Werkstattbesuch und Transfer bestätigen lassen; eine laufende Vorführung ist nicht automatisch Teil eines spontanen Besuchs.",
+      "caveat": "",
+      "photoKeys": [
+        "surin",
+        "ban-tha-sawang"
+      ],
+      "source": "https://amazingthailand.com/silk-weaving-villages-ban-tha-sawang-surin-thailand",
+      "sourceLabel": "Reiseüberblick · Ban Tha Sawang"
+    },
+    {
+      "id": "sikhoraphum",
+      "title": "Sikhoraphum",
+      "subtitle": "Fünf Backsteintürme für einen kurzen Halt.",
+      "category": "Geschichte",
+      "lat": 14.9340885,
+      "lon": 103.7955451,
+      "station": "sikhoraphum",
+      "access": "Bahnhalt mit kurzem Transfer",
+      "badge": "In der Provinz Surin",
+      "intro": "Fünf Backsteintürme stehen auf einer niedrigen Plattform, der mittlere reich mit Sandsteinreliefs verziert. Die Anlage ist überschaubar: eher ein konzentrierter Blick auf Khmer-Kunst als ein ganzer Tempeltag.",
+      "experience": "Ein kurzer Abstecher von Surin oder ein Bahnhalt mit anschließendem Transfer. Wer schon Phimai und Phanom Rung gesehen hat, kann hier entspannt weiterfahren.",
+      "why": "Eine überschaubare Alternative; nach Phimai oder Phanom Rung kein Pflichtstopp.",
+      "practical": "Nicht jeder Zug hält hier. Für einen Zwischenhalt ist keine Gepäckaufbewahrung bestätigt; als Ausflug ab Surin lässt sich das umgehen.",
+      "caveat": "",
+      "photoKeys": [
+        "sikhoraphum"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Prasat_Sikhoraphum",
+      "sourceLabel": "Hintergrund · Prasat Sikhoraphum"
+    },
+    {
+      "id": "ubon",
+      "title": "Ubon Ratchathani",
+      "subtitle": "Ankommen, bevor es zur Hochzeit geht.",
+      "category": "Stadtleben & Tempel",
+      "lat": 15.2633094,
+      "lon": 104.8390129,
+      "station": "ubon-station",
+      "access": "Bahnendstation mit Stadttransfer",
+      "badge": "10. & 12. Dezember",
+      "intro": "Ubon liegt am Mun und ist mehr als das Ende der Bahnstrecke. Der weiß-goldene Wat Phra That Nong Bua setzt einen markanten Akzent; in den Stadtvierteln geht es ruhiger und alltäglicher zu.",
+      "experience": "Rund um die Hochzeit ist Ubon vor allem eure Basis. Wenn zwischen Ankunft und Shuttle Zeit bleibt: einen Tempel besuchen oder gemeinsam essen, statt noch einen großen Ausflug hineinzupressen.",
+      "why": "Fester Ankunftsort am 10. Dezember und Rückkehrort am 12. Dezember rund um die Hochzeit am 11. Dezember.",
+      "practical": "Der Bahnhof liegt in Warin Chamrap südlich des Mun, nicht im Stadtzentrum. Am 12. nach dem Hochzeitsshuttle weiter nach Bangkok – oder in den Nachtzug steigen.",
+      "caveat": "",
+      "photoKeys": [
+        "ubon",
+        "wat-phra-that-nong-bua"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Ubon_Ratchathani_railway_station",
+      "sourceLabel": "Bahnhofslage · Warin Chamrap"
+    },
+    {
+      "id": "mekong",
+      "title": "Khong Chiam & Pha Taem",
+      "subtitle": "Jenseits der Schienen, am großen Fluss.",
+      "category": "Natur & Flussleben",
+      "lat": 15.3987457,
+      "lon": 105.5075256,
+      "station": "ubon-station",
+      "access": "Weiterfahrt auf der Straße ab Ubon",
+      "badge": "Alternative zum Wald",
+      "intro": "Bei Khong Chiam trifft der Mun auf den Mekong; am gegenüberliegenden Ufer liegt Laos. Im Pha Taem führen Klippenpfade zu prähistorischen Felsmalereien, darüber stehen ungewöhnliche pilzförmige Felsen.",
+      "experience": "Eine Übernachtung am Fluss macht daraus mehr als einen langen Tagesausflug. Morgens ans Ufer, später in den Park: eine offene, trockene Flusslandschaft als Gegenstück zum Wald von Khao Yai.",
+      "why": "Die stärkste Alternative zum Wald, wenn sich ein Ausflug in den Osten von Ubon zeitlich unterbringen lässt.",
+      "practical": "Khong Chiam und Pha Taem liegen östlich von Ubon, ohne Bahnanschluss. Der Abstecher braucht Straßentransport und passt vor die feste Ankunft am 10. Dezember.",
+      "caveat": "",
+      "photoKeys": [
+        "pha-taem",
+        "khong-chiam"
+      ],
+      "source": "https://www.thainationalparks.com/pha-taem-national-park",
+      "sourceLabel": "Parkinformationen · Pha Taem",
+      "extraPoints": [
+        {
+          "name": "Khong Chiam",
+          "lat": 15.2961807,
+          "lon": 105.4419546
+        }
+      ]
+    },
+    {
+      "id": "glowing-temple",
+      "title": "Der leuchtende Tempel",
+      "subtitle": "Wat Sirindhorn Wararam Phu Prao.",
+      "category": "Moderner Tempel",
+      "lat": 15.1488025,
+      "lon": 105.4677779,
+      "station": "ubon-station",
+      "access": "Abendausflug auf der Straße",
+      "badge": "Wat Sirindhorn Wararam Phu Prao",
+      "intro": "Auf einem Hügel nahe Chong Mek blickt dieser moderne Tempel über die Landschaft. Nach Einbruch der Dunkelheit beginnt das Lebensbaum-Motiv an der Rückwand zu leuchten, ebenso die Ornamente auf dem Boden.",
+      "experience": "Am besten vor Sonnenuntergang ankommen: erst den Blick genießen, dann die leuchtenden Details sehen. Eine passende Ergänzung zu Khong Chiam, weniger ein eigener Reisetag.",
+      "why": "Eine Ergänzung zu einem Ausflug nach Osten, kein selbstverständlicher Abstecher von der Bahnstrecke.",
+      "practical": "Bei Chong Mek an der Grenze zu Laos. Für das Leuchten bis nach Sonnenuntergang bleiben; Fahrer und Rückfahrt am selben Abend vorab vereinbaren.",
+      "caveat": "",
+      "photoKeys": [
+        "glowing-temple",
+        "wat-sirindhorn"
+      ],
+      "source": "https://www.tourismthailand.org/",
+      "sourceLabel": "Thailändisches Fremdenverkehrsamt · Weitere Besucherinformationen"
+    }
+  ]
+}

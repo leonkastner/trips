@@ -1,0 +1,95 @@
+{
+  "recommendation": {
+    "label": "Unsere Empfehlung · bei rechtzeitiger Shuttle-Rückkunft",
+    "title": "THAI nach BKK, in Bangkok übernachten",
+    "text": "Am 12. um 17:55 direkt nach BKK, Ankunft 19:00. Kein Flughafenwechsel vor dem Heimflug. Google Flights zeigt die Verbindung für den 12.12.2026; die Buchung bei THAI ist noch nicht bestätigt. Nachtzug 24 bleibt die beste Bahnoption."
+  },
+  "verification": "Recherche vom 13. Oktober 2026. THAI 12.12.2026 17:55–19:00 bei Google Flights mit Datum, Jahr und Route gelesen; Elternlauf unabhängig erneut geprüft. Kein offizielles THAI-Buchungsergebnis und keine verifizierte Flugnummer. Nok-Air- und SRT-Zeiten aus offiziellen Datumssuchen. Keine Tickets oder Plätze reserviert.",
+  "options": [
+    {
+      "type": "Flug · 12.12.",
+      "title": "Direkt zum Heimflughafen",
+      "services": [
+        {
+          "name": "Thai Airways → BKK",
+          "schedule": "17:55–19:00"
+        }
+      ],
+      "fit": "Am Vorabend in Bangkok und bereits am richtigen Flughafen. Voraussetzung: Der Shuttle kommt rechtzeitig nach Ubon zurück.",
+      "description": "Datumsspezifisch bei Google Flights gelesen: THAI, UBP → BKK, 12.12.2026, 17:55–19:00, nonstop. Flugnummer und offizielle Buchungsverfügbarkeit nicht bestätigt. Nok-Air-Alternativen nach DMK: DD325 15:35–16:40 und DD329 20:10–21:15; dann bleibt der Flughafenwechsel.",
+      "booking": {
+        "label": "Bei Google Flights ansehen",
+        "url": "https://www.google.com/travel/flights?hl=en&q=One%20way%20flights%20from%20UBP%20to%20BKK%20on%20December%2012%202026",
+        "instructions": "Einfache Strecke UBP → BKK, 12. Dezember 2026; THAI 17:55 wählen. Endgültigen Tarif und Buchung bei Thai Airways prüfen. Die offizielle Seite war beim Recherchezugriff nicht erreichbar; Google Flights ist eine datumsbezogene Drittquelle."
+      }
+    },
+    {
+      "type": "Nachtzug · 12. auf 13.12.",
+      "title": "Schlafend nach Bangkok",
+      "services": [
+        {
+          "name": "Nr. 24 · Special Express CNR",
+          "schedule": "19:15–04:50 am 13."
+        },
+        {
+          "name": "Nr. 140 · spätere Alternative",
+          "schedule": "20:30–06:50 am 13."
+        }
+      ],
+      "fit": "Zug 24 ist die beste Bahnoption: klimatisierter Schlafwagen und frühe Ankunft. Zug 140 hilft, wenn der Shuttle später zurückkommt.",
+      "description": "Zug 24 führt allgemein 1. Klasse mit Zweibettabteilen und 2. Klasse mit Liegen im offenen Wagen. Zug 140 bietet unter anderem 2. Klasse Schlafwagen. Ziel: Krung Thep Aphiwat in Bangkok; Abfahrt am Bahnhof Ubon in Warin Chamrap. Liegeplätze für den Termin wurden nicht geprüft.",
+      "booking": {
+        "label": "SRT D-Ticket öffnen",
+        "url": "https://www.dticket.railway.co.th/",
+        "instructions": "SRT D-Ticket: Ubon Ratchathani → Krung Thep Aphiwat, 12/12/2569 (= 2026), Zug 24. Für ein privates Zweibettabteil zu zweit beide Liegen im selben Abteil wählen; eine einzelne Liege ist keine eigene Kabine. In der 2. Klasse liegen die Betten im gemeinsamen Wagen hinter Vorhängen. Gewünschten Wagen und freie Plätze erst in der Auswahl prüfen."
+      }
+    },
+    {
+      "type": "Tageszug · 12.12.",
+      "title": "Langer Nachmittag im Zug",
+      "services": [
+        {
+          "name": "Nr. 22 · Special Express",
+          "schedule": "14:50–22:15 am 12."
+        }
+      ],
+      "fit": "Ankunft noch am Vorabend des Heimflugs, aber lange Sitzfahrt. Nur möglich, wenn der Shuttle früh genug in Ubon ankommt.",
+      "description": "Am selben Abend in Bangkok, ohne weiteren Flug. Laut Wagenbeschreibung ein klimatisierter Daewoo-Sitzwagen, keine Schlafkabine; die Ausstattung für den Reisetag ist noch nicht bestätigt.",
+      "booking": {
+        "label": "SRT D-Ticket öffnen",
+        "url": "https://www.dticket.railway.co.th/",
+        "instructions": "Ubon Ratchathani → Krung Thep Aphiwat, 12. Dezember; Zug 22 wählen. Bahnhofsschalter sind die Alternative zur Onlinebuchung."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google Flights · THAI am 12.12.2026",
+      "url": "https://www.google.com/travel/flights?hl=en&q=One%20way%20flights%20from%20UBP%20to%20BKK%20on%20December%2012%202026"
+    },
+    {
+      "label": "Thai Airways · offizielle Buchung",
+      "url": "https://www.thaiairways.com/en/"
+    },
+    {
+      "label": "Nok Air · offizielle Buchung",
+      "url": "https://booking.nokair.com/en/criteria-only"
+    },
+    {
+      "label": "SRT D-Ticket · offizielle Buchung",
+      "url": "https://www.dticket.railway.co.th/"
+    },
+    {
+      "label": "Thai Train Guide · CNR-Schlafwagenzug 24",
+      "url": "https://www.thaitrainguide.com/timetables/no-24/"
+    },
+    {
+      "label": "Thai Train Guide · Zug 140",
+      "url": "https://www.thaitrainguide.com/timetables/no-140/"
+    },
+    {
+      "label": "Thai Train Guide · Sitzwagenzug 22",
+      "url": "https://www.thaitrainguide.com/timetables/no-22/"
+    }
+  ]
+}

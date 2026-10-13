@@ -1,0 +1,342 @@
+[
+  {
+    "place_slug": "glowing-temple",
+    "photo_filename": "gallery-glowing-temple-03.jpg",
+    "description": "Grün leuchtender Lebensbaum und blau leuchtende Hofmuster am Wat Sirindhorn Wararam Phu Phrao bei Dunkelheit",
+    "author": "Preecha.MJ",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A0%E0%B8%B9%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B9%88%E0%B8%B3%E0%B8%84%E0%B8%B7%E0%B8%99.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "ayutthaya",
+    "photo_filename": "ayutthaya.jpg",
+    "description": "Historische Ruinen des Wat Phra Si Sanphet in Ayutthaya",
+    "author": "Sabyk2001 at English Wikipedia",
+    "license": "Creative Commons by-sa/4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wat_Phra_Sri_Sanphet%2C_Ayutthaya_Historical_Park%2C_Thailand.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "khao-yai",
+    "photo_filename": "khao-yai.jpg",
+    "description": "Der Haew-Suwat-Wasserfall im Wald des Nationalparks Khao Yai",
+    "author": "Nawit science",
+    "license": "Creative Commons by-sa/4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Haew_Suwat_Waterfall_Khao-Yai02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "phimai",
+    "photo_filename": "phimai.jpg",
+    "description": "Khmer-Tempel von Phimai",
+    "author": "This Photo was taken by Supanut Arunoprayote.",
+    "license": "Creative Commons by/4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Phimai_(III).jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "phanom-rung",
+    "photo_filename": "phanom-rung.jpg",
+    "description": "Khmer-Tempel von Phanom Rung",
+    "author": "Салига Павло",
+    "license": "Public domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D0%B2%D0%B5%D0%B6%D0%B0_%D0%9F%D1%85%D0%B0%D0%BD%D0%BE%D0%BC%D1%80%D1%83%D0%BD%D0%B3.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "muang-tam",
+    "photo_filename": "muang-tam.jpg",
+    "description": "Khmer-Tempel von Muang Tam",
+    "author": "Ddalbiez",
+    "license": "Creative Commons by-sa/3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Prasat_Muang_Tam-027.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "surin",
+    "photo_filename": "surin.jpg",
+    "description": "Seidenweberei in Ban Tha Sawang bei Surin",
+    "author": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "license": "Creative Commons by-sa/3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Thai_Silk_Weaving_4_-_Ban_Tha_Sawang.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "sikhoraphum",
+    "photo_filename": "sikhoraphum.jpg",
+    "description": "Tempel Prasat Sikhoraphum",
+    "author": "JJ Harrison (jjharrison89@facebook.com)",
+    "license": "Creative Commons by/3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Prasat_Sikhoraphum_-_Sikhoraphum_edit1.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "ubon",
+    "photo_filename": "ubon.jpg",
+    "description": "Wat Phra That Nong Bua in Ubon Ratchathani",
+    "author": "Christophe95",
+    "license": "Creative Commons by-sa/4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wat_Phra_That_Nong_Bua_02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "pha-taem",
+    "photo_filename": "pha-taem.jpg",
+    "description": "Prähistorische Felsmalereien im Pha Taem",
+    "author": "Henry_Flower (talk) (Uploads)",
+    "license": "Creative Commons by-sa/3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pha_taem_figures1.JPG",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "khong-chiam",
+    "photo_filename": "khong-chiam.jpg",
+    "description": "Die Mündung des Mun in den Mekong bei Khong Chiam",
+    "author": "No machine-readable author provided. Oatz assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Mun_River_Mouth.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "ayutthaya",
+    "photo_filename": "gallery-ayutthaya-01.jpg",
+    "description": "Backsteinruinen zwischen Bäumen im historischen Park von Ayutthaya",
+    "author": "Gary Todd from Xinzheng, China",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ayutthaya_Historical_Park_(31512522647).jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "ayutthaya",
+    "photo_filename": "gallery-ayutthaya-02.jpg",
+    "description": "Tempeltürme aus Backstein in Ayutthaya, Blick entlang der Ruinen",
+    "author": "Gary Todd from Xinzheng, China",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ayutthaya_Historical_Park_(31513868797).jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "ayutthaya",
+    "photo_filename": "gallery-ayutthaya-03.jpg",
+    "description": "Nahaufnahme verwitterter Nischen und Backsteinmauern in Ayutthaya",
+    "author": "Gary Todd from Xinzheng, China",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ayutthaya_Historical_Park_(31513990627).jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "khao-yai",
+    "photo_filename": "gallery-khao-yai-01.jpg",
+    "description": "Kronendach des tropischen Waldes im Nationalpark Khao Yai",
+    "author": "Blaise Droz www.viensdanslajungle.ch",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Canop%C3%A9e.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "khao-yai",
+    "photo_filename": "gallery-khao-yai-02.jpg",
+    "description": "Sai-Son-Stausee im Nationalpark Khao Yai mit Holzsteg und Abendlicht",
+    "author": "BerryJ",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:1001_Khao_Yai_National_Park_3.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "khao-yai",
+    "photo_filename": "gallery-khao-yai-03.jpg",
+    "description": "Straße durch den grünen Wald im Nationalpark Khao Yai",
+    "author": "Astro Boy ei ei",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Along_the_way.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "phimai",
+    "photo_filename": "gallery-phimai-01.jpg",
+    "description": "Zentraler Sandsteinturm des Khmer-Heiligtums von Phimai",
+    "author": "This Photo was taken by Supanut Arunoprayote . Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่ง ข้อความบอกกล่าวด้วย ) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract .",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Phimai_(I).jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "phimai",
+    "photo_filename": "gallery-phimai-02.jpg",
+    "description": "Zugang und Naga-Brücke des Khmer-Heiligtums von Phimai",
+    "author": "This Photo was taken by Supanut Arunoprayote . Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่ง ข้อความบอกกล่าวด้วย ) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract .",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Phimai_(II).jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "phanom-rung",
+    "photo_filename": "gallery-phanom-rung-02.jpg",
+    "description": "Frontansicht des Hauptheiligtums von Phanom Rung",
+    "author": "Philip Nalangan",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Phanom_Rung_Buriram_Thailand_03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "phanom-rung",
+    "photo_filename": "gallery-phanom-rung-03.jpg",
+    "description": "Nahansicht des reich verzierten Sandsteinportals von Phanom Rung",
+    "author": "Philip Nalangan",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Phanom_Rung_Buriram_Thailand_08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "surin",
+    "photo_filename": "gallery-surin-01.jpg",
+    "description": "Weberin am Webstuhl in Ban Tha Sawang bei Surin",
+    "author": "JJ Harrison ( https://www.jjharrison.com.au/ )",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Thai_Silk_Weaving_1_-_Ban_Tha_Sawang.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "surin",
+    "photo_filename": "gallery-surin-02.jpg",
+    "description": "Mehrere Personen an den Webstühlen in Ban Tha Sawang bei Surin",
+    "author": "JJ Harrison ( https://www.jjharrison.com.au/ )",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Thai_Silk_Weaving_2_-_Ban_Tha_Sawang.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "surin",
+    "photo_filename": "gallery-surin-03.jpg",
+    "description": "Rote Seide am Webstuhl in Ban Tha Sawang bei Surin",
+    "author": "JJ Harrison ( https://www.jjharrison.com.au/ )",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Thai_Silk_Weaving_3_-_Ban_Tha_Sawang.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "sikhoraphum",
+    "photo_filename": "gallery-sikhoraphum-01.jpg",
+    "description": "Sandsteintürrahmen und Reliefs am Prasat Sikhoraphum",
+    "author": "JJ Harrison ( https://www.jjharrison.com.au/ )",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Prasat_Sikhoraphum_Detail_1_-_Sikhoraphum.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "sikhoraphum",
+    "photo_filename": "gallery-sikhoraphum-02.jpg",
+    "description": "Einzelner Backsteinturm am Prasat Sikhoraphum",
+    "author": "JJ Harrison ( https://www.jjharrison.com.au/ )",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Prasat_Sikhoraphum_Detail_2_-_Sikhoraphum.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "sikhoraphum",
+    "photo_filename": "gallery-sikhoraphum-03.jpg",
+    "description": "Tempeltürme von Prasat Sikhoraphum in warmem Licht",
+    "author": "Michael Gunther",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Prasat_Sikhoraphum_0471.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "ubon",
+    "photo_filename": "gallery-ubon-02.jpg",
+    "description": "Buddhafigur und goldene Innenraumverzierungen im Wat Phra That Nong Bua, Ubon Ratchathani",
+    "author": "Christophe95",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wat_Phra_That_Nong_Bua_04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "ubon",
+    "photo_filename": "gallery-ubon-03.jpg",
+    "description": "Altar und Buddhafiguren im Wat Phra That Nong Bua, Ubon Ratchathani",
+    "author": "Christophe95",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wat_Phra_That_Nong_Bua_06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "mekong",
+    "photo_filename": "gallery-mekong-01.jpg",
+    "description": "Pilzförmige Felsformation im Nationalpark Pha Taem",
+    "author": "Kinzang Wangchuk",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Mushroom-Shaped_rock.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "mekong",
+    "photo_filename": "gallery-mekong-02.jpg",
+    "description": "Breites Panorama der Felslandschaft im Nationalpark Pha Taem",
+    "author": "Sakateka",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Panorama_of_Pha_Taem_National_Park_20160731.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "mekong",
+    "photo_filename": "gallery-mekong-03.jpg",
+    "description": "Blick vom Pha Taem auf den Mekong und die gegenüberliegenden Höhen",
+    "author": "Ddalbiez",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pha_Taem_bis.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "glowing-temple",
+    "photo_filename": "gallery-glowing-temple-01.jpg",
+    "description": "Wat Sirindhorn Wararam Phu Phrao im violetten Abendlicht mit Spiegelung",
+    "author": "Naikhumklao",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Twilight_at_Sinrinthorn_wararam.jpg",
+    "status": "downloaded"
+  },
+  {
+    "place_slug": "glowing-temple",
+    "photo_filename": "gallery-glowing-temple-02.jpg",
+    "description": "Wat Sirindhorn Wararam Phu Phrao bei Sonnenuntergang, durch Blätter gerahmt",
+    "author": "Naikhumklao",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Twilight_at_Sinrinthorn_wararam2.jpg",
+    "status": "downloaded"
+  }
+]

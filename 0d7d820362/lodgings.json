@@ -1,0 +1,221 @@
+{
+  "stays": [
+    {
+      "place_ids": [
+        "ayutthaya"
+      ],
+      "name": "iuDia on the River",
+      "url": "http://www.iudia.com/",
+      "location": "Ayutthaya, am Fluss gegenüber dem historischen Park",
+      "description": "Siamesische Innenhöfe, Antiquitäten und ein Pool am Fluss, gegenüber den Tempelruinen. Kleines Boutiquehotel mit viel Ayutthaya-Charakter.",
+      "verification": "Aus vorhandener belegter Recherche übernommen, in diesem Lauf nicht erneut live gelesen. Offizielle Betreiberwebsite vollständig gelesen; bezeichnet sich ausdrücklich als kleines Boutiquehotel und nennt Innenhöfe, Pool, Café, historische Artefakte und Blick auf den Welterbepark. Einzelne historische Jahreszahlen der Hotelwebsite wurden nicht übernommen. Datum/Verfügbarkeit für 4.–10. Dezember 2026 nicht geprüft; keine datierten Preise erhoben. Quelle: iudia-home."
+    },
+    {
+      "place_ids": [
+        "ayutthaya"
+      ],
+      "name": "Baan Pomphet",
+      "url": "https://baanpomphet.com/",
+      "location": "Ayutthaya, am Chao Phraya bei der Festung Pom Phet",
+      "description": "Acht Zimmer am Fluss, bewusst gestaltete Architektur und ein Restaurant mit thailändischer Küche. Die kleine, komfortable Alternative zu iuDia.",
+      "verification": "Offizielle Startseite gelesen: acht Zimmer, Boutiquehotel, Flusslage, Festungsblick und traditionelle Küche ausdrücklich bestätigt. Kein historisches Gebäude oder Familienbesitz behauptet. Recherche 13.10.2026; keine datierte Zimmerverfügbarkeit oder Reisepreise geprüft."
+    },
+    {
+      "place_ids": [
+        "ayutthaya"
+      ],
+      "name": "Baan Thai House",
+      "url": "https://www.booking.com/hotel/th/baan-thai-house.html",
+      "location": "Pai Ling, Ayutthaya; außerhalb der historischen Insel",
+      "description": "Thai-Villen in einer Gartenanlage mit Pool. Für einen ruhigeren Aufenthalt abseits der Tempelinsel; kein direktes Flusshotel wie iuDia.",
+      "verification": "Booking-Objektseite gelesen: Adresse in Pai Ling und Pool bestätigt; Thai-Villen mit Garten-/Seeblick in objektbezogenem Suchtreffer beschrieben. Die versuchte HTTPS-Betreiberadresse lieferte sachfremden MasalaWeds-Inhalt; deshalb bewusst die geprüfte Objektseite verlinkt. Recherche 13.10.2026; keine datierte Zimmerverfügbarkeit oder Reisepreise geprüft."
+    },
+    {
+      "place_ids": [
+        "khao-yai"
+      ],
+      "name": "Isaan Isan Resort Khaoyai",
+      "url": "https://isaan-isan.com/",
+      "location": "Mu Si, Pak Chong, nahe dem nördlichen Eingang von Khao Yai",
+      "description": "Isan-inspirierte Webmuster, Terrakottatöne und Klebreiskorb-Motive. Mit 82 Zimmern kein kleines Thai-Haus, aber eine gestalterisch passendere Komfortalternative ohne Golf.",
+      "verification": "Offizielle Website gelesen: 82 Zimmer, vier Zimmerkategorien, Mu-Si-Adresse und Isan-Gestaltung ausdrücklich genannt. Regionale Gestaltung ist Betreiberbeschreibung, kein Beweis für Familienbesitz oder historische Bausubstanz. Größere Resortalternative klar ausgewiesen. Recherche 13.10.2026; keine datierte Zimmerverfügbarkeit oder Reisepreise geprüft."
+    },
+    {
+      "place_ids": [
+        "khao-yai"
+      ],
+      "name": "Baan Nork Farmstay",
+      "url": "https://www.facebook.com/BaanNorkFarmStay/",
+      "location": "Nong Nam Daeng, Pak Chong; regionale Basis für Khao Yai",
+      "description": "Farmstay mit klimatisierten Zimmern und Aktivitäten auf dem Hof. Die ländliche, einfachere Option statt Golfresort; stärker auf Familien ausgerichtet.",
+      "verification": "Betreiber-Facebook-Auftritt per HTTP erreicht; extrahierbar waren Name und Pak Chong. Indexierter Betreiberbeitrag vom 13.06.2025 nennt klimatisierte Familienzimmer, Warmwasserdusche, Kühlschrank, TV und Farmaktivitäten. Details nur über den indexierten Originalbeitrag https://www.facebook.com/BaanNorkFarmStay/posts/-family-farmstay-near-khao-yai-your-nature-getaway-just-25-hours-from-bangkok-lo/1252935340174990/ belegt; reduzierte Prüftiefe, kein Luxusversprechen. Recherche 13.10.2026; keine datierte Zimmerverfügbarkeit oder Reisepreise geprüft."
+    },
+    {
+      "place_ids": [
+        "khao-yai"
+      ],
+      "name": "Lala Mukha Tented Resort Khao Yai",
+      "url": "https://www.lalamukha.com/",
+      "location": "Mu Si, Pak Chong; regionale Basis für Khao Yai",
+      "description": "Zelte und Baumhäuser mit Hotelkomfort in grüner Umgebung. Charaktervolle Glamping-Ausweichoption; afrikanisch inspiriert, ausdrücklich kein traditionelles Thai-Hotel.",
+      "verification": "Offizielle Website per HTTP 200 gelesen: 40 Zelte und Baumhäuser, moderne Gestaltung mit afrikanischen Elementen und Lage am Rand von Khao Yai. Praktische Stilalternative, nicht als Thai-authentisch ausgegeben. Badstandard der gewählten Kategorie vor Buchung prüfen. Recherche 13.10.2026; keine datierte Zimmerverfügbarkeit oder Reisepreise geprüft."
+    },
+    {
+      "place_ids": [
+        "phimai"
+      ],
+      "name": "Moon River Resort Phimai",
+      "url": "https://www.moon-river-resort-phimai.com/",
+      "location": "Phimai, am Mun-Fluss nahe dem historischen Zentrum",
+      "description": "Traditionelle Thai-Häuser mit überdachten Terrassen am Fluss, unter thailändischer Leitung. Einfacher als die Luxushotels, dafür persönlich und direkt in Phimai.",
+      "verification": "Aus vorhandener belegter Recherche übernommen, in diesem Lauf nicht erneut live gelesen. Offizielle Betreiberwebsite am 13.10.2026 gelesen: traditionelle Thai-Häuser, Flussterrassen, Lage gegenüber dem historischen Ort; Thai owner/operator. Geschlecht der betreibenden Person nicht verifiziert. Keine Dezemberverfügbarkeit oder Reisepreise geprüft."
+    },
+    {
+      "place_ids": [
+        "phimai"
+      ],
+      "name": "Ban Nai Amphoe",
+      "url": "https://www.booking.com/hotel/th/po-ban-nai-amphoe.html",
+      "location": "Korat / Nakhon Ratchasima, Nai Mueang; regionale Basis, NICHT Phimai",
+      "description": "Stadthotel mit Restaurant und Café in Korat. Praktischer Fallback für eine Korat-Nacht, nicht die lokale Flussunterkunft für Phimai.",
+      "verification": "Booking-Objektseite gelesen: Name und Adresse 2664/9 Mittaphap 18, Nai Muang, Mueang Nakhon Ratchasima bestätigt. Restaurant/Café im objektbezogenen Suchtreffer. Boutique-, Familien- oder Heritagecharakter nicht belegt; bewusst als praktische Korat-Basis geführt. Recherche 13.10.2026; keine datierte Zimmerverfügbarkeit oder Reisepreise geprüft."
+    },
+    {
+      "place_ids": [
+        "phimai"
+      ],
+      "name": "deVloft hotel Korat",
+      "url": "https://www.booking.com/hotel/th/devloft-residence.html",
+      "location": "Korat / Nakhon Ratchasima, Nai Mueang; regionale Basis, NICHT Phimai",
+      "description": "Schlichte moderne Stadtunterkunft in Korat. Zweiter praktischer Fallback, wenn Korat als Übernachtungsort wichtiger ist als ein Thai-Haus direkt in Phimai.",
+      "verification": "Booking-Objektseite gelesen: Name und Adresse 75/19 Soi Trong Somrongjan, Nai Muang, Mueang Nakhon Ratchasima bestätigt. Kein belegter Heritagecharakter, keine Familienbesitzbehauptung. Nicht gleichwertig mit iuDia, keine Fahrzeit nach Phimai verifiziert. Recherche 13.10.2026; keine datierte Zimmerverfügbarkeit oder Reisepreise geprüft."
+    },
+    {
+      "place_ids": [
+        "phanom-rung"
+      ],
+      "name": "Phanomrung Puri Boutique Hotels and Resorts",
+      "url": "https://www.phanomrungpuri.co.th/en/",
+      "location": "Nang Rong, Provinz Buriram; 212 Nangrong–Lamplaimat Road",
+      "description": "In Nang Rong: Khmer-inspirierte Gestaltung, Rattanmöbel und Pool. Eine passende Basis für Phanom Rung und Muang Tam, statt in Buriram nur am Bahnhof zu bleiben.",
+      "verification": "Aus bestehender Recherche übernommen: offizielle Betreiberwebsite nennt 66 Zimmer, Khmer-inspirierte Gestaltung, Rattanmöbel, Klimaanlage, Restaurant und Pool. Unterkunft in Nang Rong, regionale Basis für Phanom Rung/Muang Tam, nicht Buriram-Stadt und nicht Phimai. Kein kleines Heritagehaus; kein Familienbesitz behauptet. Dezemberverfügbarkeit und Preise nicht geprüft."
+    },
+    {
+      "place_ids": [
+        "phanom-rung"
+      ],
+      "name": "Socool Grand Hotel",
+      "url": "https://www.facebook.com/socoolgrand/",
+      "location": "Nang Rong, Provinz Buriram; regionale Basis für Phanom Rung",
+      "description": "Moderne Hotelalternative in Nang Rong. Praktischer Fallback statt einer unbelegten Boutique-Empfehlung; kein Heritage- oder Thai-Holzhaus versprochen.",
+      "verification": "Offizieller Facebook-Auftritt per HTTP erreicht, Hotelname und Nang Rong extrahiert; indexierte Betreiberbeiträge bestätigen laufende Hotelkommunikation. Details zu Ausstattung nicht ausreichend direkt gelesen, deshalb keine Pool- oder Luxusbehauptung. Eingeschränkte Prüftiefe; nicht als voll geprüfte Boutiqueoption ausgegeben. Recherche 13.10.2026; keine datierte Zimmerverfügbarkeit oder Reisepreise geprüft."
+    },
+    {
+      "place_ids": [
+        "phanom-rung"
+      ],
+      "name": "Akelada Hotel",
+      "url": "https://www.booking.com/hotel/th/akelada.en-gb.html",
+      "location": "Nang Rong, Chokchai–Det Udom Road; regionale Basis für Phanom Rung",
+      "description": "Stadt- und Tagungshotel mit Garten und Fitnessbereich. Dritter praktischer Fallback in Nang Rong, nicht die charaktervollste Wahl der Region.",
+      "verification": "Booking-Objektseite gelesen: Name, Nang-Rong-Adresse, Gartenblick und Fitnessbereich bestätigt. Betreiberauftritt https://www.facebook.com/Akeladahotel/ gefunden und als Hotel & Convention bezeichnet. Weder kleines Boutiquehaus noch Familienbesitz belegt. Recherche 13.10.2026; keine datierte Zimmerverfügbarkeit oder Reisepreise geprüft."
+    },
+    {
+      "place_ids": [
+        "surin",
+        "sikhoraphum"
+      ],
+      "name": "Sorin Boutique Hotel",
+      "url": "https://sorinhotel.com/",
+      "location": "Surin-Stadt, 22/88 Thetsaban 3 Road; regionale Basis für Sikhoraphum",
+      "description": "Vierstöckiges Stadthotel, dessen Etagen Surins Seide, Khmer-Tempel und Jasminreis aufgreifen. Für diese Region die am klarsten belegte gestalterische Alternative.",
+      "verification": "Offizielle Startseite gelesen: vier Stockwerke und drei Themenetagen mit Seide, ancient castles und Jasminreis sowie Surin-Adresse bestätigt. Kein historisches Bauwerk, keine Familienbesitzbehauptung; Ausflug nach Sikhoraphum redaktionelle Empfehlung, kein dortiges Hotel. Recherche 13.10.2026; keine datierte Zimmerverfügbarkeit oder Reisepreise geprüft."
+    },
+    {
+      "place_ids": [
+        "surin",
+        "sikhoraphum"
+      ],
+      "name": "Slive Hotel",
+      "url": "https://www.booking.com/hotel/th/slive.html",
+      "location": "169 Lakmuang Road, Nai Mueang, Mueang Surin, Provinz Surin",
+      "description": "Moderne, komfortable Stadtbasis in Surin. Kein Heritagehotel; eher die praktische Lösung. Für Sikhoraphum hier bleiben, statt noch einmal umzuziehen.",
+      "verification": "Aus vorhandener belegter Recherche übernommen, in diesem Lauf nicht erneut live gelesen. Eingeschränkte Primärquellenprüfung: offizieller Kontaktseiten-Suchtreffer nennt Slive Hotel, Adresse und www.slivehotel.com; offizieller Facebook-Auftritt wird ebenfalls gefunden. Betreiberwebsite ließ sich per web_extract nicht lesen; HTTPS-Direktabruf endete im Timeout, Facebook-Extraktion wird vom Dienst nicht unterstützt. Booking.com-Objektseite erfolgreich gelesen und bestätigt Name, Adresse und Existenz; Thai-Frühstück ausdrücklich nur aus dort sichtbaren Gästeberichten, nicht als garantierte Leistung. Keine belegte Behauptung zu unabhängigem/familiärem Besitz oder luxuriösem Heritage-Charakter. Surin als Basis für Sikhoraphum ist eine Reiseempfehlung, keine Unterkunft in Sikhoraphum. Datum/Verfügbarkeit für 4.–10. Dezember 2026 nicht geprüft; keine datierten Preise erhoben. Quellen: slive-official-contact, slive-facebook, slive-booking."
+    },
+    {
+      "place_ids": [
+        "surin",
+        "sikhoraphum"
+      ],
+      "name": "Maneerote Hotel",
+      "url": "https://www.booking.com/hotel/th/maneerote.html",
+      "location": "Surin-Stadt, Krungsrinai Road; regionale Basis für Sikhoraphum",
+      "description": "Einfaches Stadthotel als praktische Reserve. Weniger Design und Komfortanspruch als Sorin oder Slive; kein Heritagehotel.",
+      "verification": "Booking-Objektseite gelesen: Name und Adresse 11/1 Soi Poytungko Krungsrinai Rd., Nai Muang, Mueang Surin bestätigt. Kein Beleg für kleines Thai-Haus oder Heritagecharakter; bewusst einfacher Fallback. Recherche 13.10.2026; keine datierte Zimmerverfügbarkeit oder Reisepreise geprüft."
+    },
+    {
+      "place_ids": [
+        "ubon"
+      ],
+      "name": "Tohsang Heritage Ubon Ratchathani Hotel",
+      "url": "https://www.tohsangubon.com/",
+      "location": "Mueang Ubon Ratchathani, Stadt Ubon Ratchathani",
+      "description": "Handgearbeitete Details und natürliche Materialien in einem zeitgenössischen Vintagehotel. Eine komfortable Stadtbasis für Märkte und Tempel in Ubon.",
+      "verification": "Aus vorhandener belegter Recherche übernommen, in diesem Lauf nicht erneut live gelesen. Offizielle Stadt-Hotelwebsite vollständig gelesen: Lage in Ubon, Vintage-Stil, natürliche Materialien, Handarbeit und Restaurant bestätigt. Die gemeinsame offizielle Tohsang-Geschichte nennt Gründung des Ubon-Hotels 1992 und Umbenennung 2021; kein historisches Palastgebäude behauptet. Stadt-Hotel und Khong-Chiam-Resort sind unterschiedliche Häuser. Datum/Verfügbarkeit für 4.–10. Dezember 2026 nicht geprüft; keine datierten Preise erhoben. Quellen: tohsang-ubon-home, tohsang-history."
+    },
+    {
+      "place_ids": [
+        "ubon"
+      ],
+      "name": "Yuu Hotel Ubon Ratchathani",
+      "url": "https://www.booking.com/hotel/th/bua-boutique.html",
+      "location": "Ubon-Stadt, 179–179/1–4 Uparat Road",
+      "description": "Stadthotel mit individuell gestalteten Zimmern und Café. Eine ergänzende Designoption zu Tohsang Heritage, ohne historisches Gebäude oder traditionelle Thai-Architektur zu versprechen.",
+      "verification": "Booking-Objektseite gelesen: Name und Stadtadresse bestätigt; Abbildungen dokumentieren unterschiedlich gestaltete Zimmer. Café über Betreiberauftritt https://www.facebook.com/yuuhotelandcafe/ und objektseitige Gästeberichte belegt. Lokale Künstler werden nur in Gästeberichten genannt und deshalb nicht als gesicherte Betreiberangabe übernommen. Recherche 13.10.2026; keine datierte Zimmerverfügbarkeit oder Reisepreise geprüft."
+    },
+    {
+      "place_ids": [
+        "ubon"
+      ],
+      "name": "Rapeepan Ville Hotel",
+      "url": "http://www.rapeepanvill.com/",
+      "location": "Ubon Ratchathani, Stadtbasis",
+      "description": "Komfortorientiertes Stadthotel mit eigenem Thai-Restaurant Ma Long Ce. Praktische Alternative, wenn Tohsang oder Yuu nicht passen; kein Heritagehaus behauptet.",
+      "verification": "Offizielle Website gelesen: Ubon-Stadtlage, Grand Premier/Premier/Deluxe-Kategorien und Ma Long Ce mit konkreten thailändischen Gerichten bestätigt. Größe, Familienbesitz und historische Bausubstanz nicht belegt. Allgemeine Websitepreise nicht als Reisepreise übernommen. Recherche 13.10.2026; keine datierte Zimmerverfügbarkeit oder Reisepreise geprüft."
+    },
+    {
+      "place_ids": [
+        "mekong",
+        "glowing-temple"
+      ],
+      "name": "Tohsang Heritage Khongjiam",
+      "url": "https://www.tohsang.com/homepage",
+      "location": "Khong Chiam, Provinz Ubon Ratchathani, am Mekong",
+      "description": "Am Mekong: Indigo-Textilien, Bambusdetails und eigenes Cotton Village. Für mehr Komfort die Mekong- oder Poolvilla ansehen; mit dieser Basis lassen sich Pha Taem und der Tempelabend verbinden.",
+      "verification": "Aus vorhandener belegter Recherche übernommen, in diesem Lauf nicht erneut live gelesen. Offizielle Startseite, Geschichte und Villa-Wing-Seite gelesen: Mekonglage in Khong Chiam, Pool, Spa, Cotton Village und seit 1994 bestehendes Resort bestätigt. Villa-Seite beschreibt lokal angebaute, gefärbte und gewebte Naturmaterialien sowie drei Pool Villas im Cotton Village mit privaten Pools. Sedhapura nicht als separat aktuell buchbares Haus ausgegeben: alte offizielle URL zeigt ausdrücklich eine 404-Fehlerseite; aktuelle Betreiberseite vermarktet Tohsang Heritage und Villa Wing. Keine Gleichsetzung der aktuellen Pool Villas mit früheren Sedhapura-Villen. glowing-temple ist eine redaktionelle Basisempfehlung für den vorgesehenen Tempelabend; Nähe, Distanz, Fahrtzeit und nächtlicher Transfer wurden nicht geprüft. Datum/Verfügbarkeit für 4.–10. Dezember 2026 nicht geprüft; keine datierten Preise erhoben. Quellen: tohsang-khongjiam-home, tohsang-history, tohsang-villa-wing, sedhapura-old-url."
+    },
+    {
+      "place_ids": [
+        "mekong",
+        "glowing-temple"
+      ],
+      "name": "Khong Chiam Orchid Riverside Resort",
+      "url": "https://khongchiamresort.com/",
+      "location": "Huai Mak Tai, Khong Chiam; am Mekong",
+      "description": "Resort am Mekong als Alternative zu Tohsang. Flusslage statt Stadtbasis; als regionales Quartier für den Tempelabend, nicht als Unterkunft unmittelbar am Wat Sirindhorn.",
+      "verification": "Betreiberwebsite gelesen: Hotelname, Huai-Mak-Tai-Adresse, Mekonglage und offizieller Facebook-Link bestätigt. Offensichtliche Template-Floskeln über Meerblick und allgemeine Luxusbehauptungen nicht übernommen. Zimmerzahl, Familienbesitz und traditionelle Architektur nicht ausreichend belegt; Transfer zum glowing temple ungeprüft. Recherche 13.10.2026; keine datierte Zimmerverfügbarkeit oder Reisepreise geprüft."
+    },
+    {
+      "place_ids": [
+        "mekong",
+        "glowing-temple"
+      ],
+      "name": "Baan Kieng Tawan",
+      "url": "https://www.booking.com/hotel/th/baan-kieng-tawan.html",
+      "location": "Khong Chiam, 748 Ratchauthid Road; regionale Basis für den glowing temple",
+      "description": "Schlichte Unterkunft im Ort Khong Chiam. Praktischer, weniger luxuriöser Fallback, wenn das Flussresort nicht nötig ist.",
+      "verification": "Booking-Objektseite gelesen: Name und Adresse in Khong Chiam bestätigt; helle moderne Zimmer auf der Objektseite dokumentiert. Kein belegter Heritagecharakter oder Familienbesitz. Nicht am glowing temple gelegen; Nachttransfer und Fahrzeit nicht geprüft. Recherche 13.10.2026; keine datierte Zimmerverfügbarkeit oder Reisepreise geprüft."
+    }
+  ],
+  "verification": "Je drei Optionen für sieben Regionen. Bestehende geeignete Häuser erhalten; Kirimaya entfernt. Korat, Nang Rong, Surin und Khong Chiam als regionale Basen explizit bezeichnet. Nicht jede Region liefert drei belegte kleine Thai-/Boutiquehäuser: praktische Fallbacks sind gekennzeichnet. Quellenprüfung unterscheidet gelesene Seiten, indexierte Originalbeiträge und übernommene Vorrecherche. Keine Buchung, keine datierte Verfügbarkeit oder Preise."
+}

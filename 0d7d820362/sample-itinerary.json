@@ -1,0 +1,69 @@
+{
+  "assumed_year": 2026,
+  "status": "Vorschlag, keine festgelegte Route",
+  "days": [
+    {
+      "date": "2026-12-04",
+      "label": "4.12.",
+      "title": "Ankommen in Ayutthaya",
+      "text": "Nach der Landung nach Ayutthaya. Flussufer und Tempel am späten Nachmittag; erste Nacht dort.",
+      "connection": "Bei ausreichend früher Landung: Zug 109, Krung Thep Aphiwat 14:15 → Ayutthaya 15:18. Sonst direkter Straßentransfer; die Ankunftszeit des Fluges ist noch offen.",
+      "night": "Ayutthaya"
+    },
+    {
+      "date": "2026-12-05",
+      "label": "5.12.",
+      "title": "Ayutthaya → Khao Yai",
+      "text": "Morgens noch durch die Ruinen, dann nach Pak Chong. Weiter zur Unterkunft bei Khao Yai; zwei Nächte an derselben Basis.",
+      "connection": "Zug 71: Ayutthaya 11:31 → Pak Chong 13:17. Für Komfort die klimatisierte 2. Klasse prüfen.",
+      "night": "Khao Yai"
+    },
+    {
+      "date": "2026-12-06",
+      "label": "6.12.",
+      "title": "Ein ganzer Tag im Wald",
+      "text": "Khao Yai mit Guide oder Fahrer: Waldpfade und Wasserfälle, danach zurück in dieselbe Unterkunft. Kein Hotelwechsel.",
+      "connection": "Keine Bahnstrecke; Parkausflug auf der Straße.",
+      "night": "Khao Yai"
+    },
+    {
+      "date": "2026-12-07",
+      "label": "7.12.",
+      "title": "Korat → Phimai und Sai Ngam",
+      "text": "Vormittags nach Korat, dann mit Fahrer nach Phimai. Khmer-Heiligtum, Kleinstadt und Banyanhain Sai Ngam; eine Nacht direkt in Phimai, zum Beispiel im Moon River Resort.",
+      "connection": "Zug 21: Pak Chong 08:44 → Nakhon Ratchasima 10:01. Phimai hat keinen Bahnhof; der Ausflug braucht einen Straßentransfer.",
+      "night": "Phimai"
+    },
+    {
+      "date": "2026-12-08",
+      "label": "8.12.",
+      "title": "Weiter nach Surin",
+      "text": "Ruhiger Morgen in Phimai. Per Fahrer zurück nach Korat, dort Mittagessen und am Nachmittag weiter nach Surin. Abends lokale Küche; eine Nacht hier.",
+      "connection": "Zug 71: Nakhon Ratchasima 14:40 → Surin 17:08. Vorher Straßentransfer von Phimai zum Bahnhof Nakhon Ratchasima.",
+      "night": "Surin"
+    },
+    {
+      "date": "2026-12-09",
+      "label": "9.12.",
+      "title": "Ban Tha Sawang → Ubon",
+      "text": "Vormittags zu den Seidenwebereien in Ban Tha Sawang, nachmittags zurück nach Surin. Abends weiter nach Ubon und dort übernachten.",
+      "connection": "Zug 71: Surin 17:11 → Ubon Ratchathani 19:35. Der Bahnhof liegt in Warin Chamrap; danach Transfer zum Stadthotel.",
+      "night": "Ubon"
+    },
+    {
+      "date": "2026-12-10",
+      "label": "10.12.",
+      "title": "Ubon → Hochzeitsshuttle",
+      "text": "Bereits in Ubon: keine weitere Bahnverbindung vor dem organisierten Shuttle nötig. Die genaue Abholzeit bleibt offen.",
+      "connection": "Organisierter Hochzeitsshuttle.",
+      "night": "Hochzeit"
+    }
+  ],
+  "alternative": "Phanom Rung statt Phimai: am 7. mit Zug 21 von Pak Chong 08:44 nach Buri Ram 11:34; per Fahrer nach Phanom Rung und Muang Tam, Übernachtung in Nang Rong oder Buriram. Am 8. rechtzeitig zurück zum Bahnhof Buri Ram: Zug 21, 11:37 → Surin 12:09. Eine Unterkunft in Nang Rong liegt nicht am Bahnhof; beide Straßentransfers gehören zu dieser Variante.",
+  "verification": "Aktuell gelesene allgemeine Fahrplantabellen von Thai Train Guide (Seitenstand 15.11.2025). Keine datumsspezifischen Tickets oder freien Plätze für 4.–9.12.2026 bestätigt. Alle Uhrzeiten Thailand-Ortszeit.",
+  "sources": [
+    "https://www.thaitrainguide.com/timetables/no-109/",
+    "https://www.thaitrainguide.com/timetables/no-71/",
+    "https://www.thaitrainguide.com/timetables/no-21/"
+  ]
+}
